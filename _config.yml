@@ -1,0 +1,10 @@
+title: Small Office Network Lab
+description: Segmented VLAN small-office network in Cisco Packet Tracer, by Latoyya Smith
+author: Latoyya Smith
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude:
+  - "*.pkt"
+  - "*-config.txt"
