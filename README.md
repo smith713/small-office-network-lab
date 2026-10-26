@@ -4,7 +4,7 @@
 
 ![Small office network topology](screenshots/topology.png)
 
-`VLANs` `802.1Q trunking` `Router-on-a-stick` `DHCP relay` `DNS` `Extended ACLs` `SSH hardening` `Troubleshooting`
+**Skills:** VLANs, 802.1Q Trunking, Router-on-a-Stick, Inter-VLAN Routing, DHCP Relay, DNS, Extended ACLs, SSH Hardening, Troubleshooting
 
 ---
 
