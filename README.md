@@ -82,7 +82,7 @@ ip access-list extended GUEST-IN
 | 5 | Admin-PC SSHes to SW1 | Allowed | ✅ Reached the `SW1>` prompt |
 | 6 | Sales-PC SSHes to SW1 | Refused | ✅ "Connection refused by remote host" |
 
-<details>
+<details markdown="1">
 <summary><b>Show the evidence screenshots</b></summary>
 
 ![VLANs and trunk](screenshots/proof-vlans-trunk.png)
