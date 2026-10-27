@@ -111,9 +111,9 @@ To show how I work a ticket, I broke the network on purpose and fixed it:
 
 > Passwords in this lab are demo values for a simulated environment and aren't used anywhere real.
 
-## What's next
+## Part 2: Azure extension
 
-**Part 2: extend this office to Azure.** I'll build a virtual network with subnets and network security groups that mirror these VLAN rules, add a VM reached only through Azure Bastion, and design the site-to-site VPN that would connect it back to the office.
+**[Azure Office Extension →](https://smith713.github.io/azure-office-extension/)**: this office extended into Microsoft Azure. It has a VNet whose subnets mirror these VLANs, NSGs that enforce the same rules, a private file server with no public IP, and a site-to-site VPN design that connects back to this network.
 
 ---
 
